@@ -1,0 +1,7 @@
+{
+  "name": "Seraphim's Mandarin Magic",
+  "description": "A personalized, gamified Mandarin learning adventure for Seraphim, featuring her favorite purple cat companion.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
